@@ -1,7 +1,7 @@
 [![MasterHead](https://firdauzislami.blogspot.com)](https://www.facebook.com/profile.php?id=100057104196879&mibextid=ZbWKwL)
 <h1 align="center">Hi 👋, I'm Fairuz Aqila Islami</h1>
 <h3 align="center">I'am a Junior Front-end web development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2Ff3%2F41%2Fe1f3413bf5036045713341394f617225.gif&tbnid=OeEXl_EJeISm-M&vet=12ahUKEwjK7Ki4lqGEAxVqcWwGHdfpAo8QMygBegQIARBG..i&imgrefurl=https%3A%2F%2Fid.pinterest.com%2Fpin%2F331507222572078661%2F&docid=iP7_ecWkO7mImM&w=800&h=600&q=gif%20programer&ved=2ahUKEwjK7Ki4lqGEAxVqcWwGHdfpAo8QMygBegQIARBG">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fairuzzislami&label=Profile%20views&color=0e75b6&style=flat" alt="fairuzzislami" /> </p>
 
