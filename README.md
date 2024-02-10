@@ -1,4 +1,4 @@
-[![MasterHead](https://firdauzislami.blogspot.com)](https://www.facebook.com/profile.php?id=100057104196879&mibextid=ZbWKwL)
+
 <h1 align="center">Hi 👋, I'm Fairuz Aqila Islami</h1>
 <h3 align="center">I'am a Junior Front-end web development</h3>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
