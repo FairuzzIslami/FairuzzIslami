@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Ffront-end-developer-typographic-header_12447996.htm&psig=AOvVaw2MTXD3YF1wbRFY8dGBChzO&ust=1708005059605000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCPtun8qoQDFQAAAAAdAAAAABAJ)
+![logo](https://github.com/FairuzzIslami/FairuzzIslami/blob/main/front-end-developer-typographic-header_277904-11487.avif)
 <h1 align="center">Hi 👋, I'm Fairuz Aqila Islami</h1>
 <h3 align="center">I'am a Junior Front-end web development</h3>
 <img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
