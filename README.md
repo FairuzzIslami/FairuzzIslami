@@ -1,7 +1,7 @@
 ![logo](https://github.com/FairuzzIslami/FairuzzIslami/blob/main/Logo.webp)
 <h1 align="center">Hi 👋, I'm Fairuz Aqila Islami</h1>
 <h3 align="center">I'am a Junior Front-end web development</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/FairuzzIslami/FairuzzIslami/blob/main/image.gif.crdownload">
+<img align="right" alt="Coding" width="500" src="https://github.com/FairuzzIslami/FairuzzIslami/blob/main/image.gif.crdownload">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fairuzzislami&label=Profile%20views&color=0e75b6&style=flat" alt="fairuzzislami" /> </p>
 
