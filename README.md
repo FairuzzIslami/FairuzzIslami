@@ -1,4 +1,4 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fairuz Aqila Islami</h1>
 <h3 align="center">I'am a Junior Front-end web development</h3>
 <img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
