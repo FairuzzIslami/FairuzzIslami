@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fairuzzislami&show_icons=true&locale=en" alt="fairuzzislami" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzzislami&" alt="fairuzzislami" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzzislami&](https://github.com/FairuzzIslami)" alt="fairuzzislami" /></p>
