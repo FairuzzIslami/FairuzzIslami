@@ -42,9 +42,12 @@
 ---
 
 ### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FairuzzIslami&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FairuzzIslami&theme=radical&hide_border=true&v=1)](https://git.io/streak-stats)
+
+</div>
+
 
 ---
 
