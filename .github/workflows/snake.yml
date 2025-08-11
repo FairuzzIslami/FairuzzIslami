@@ -12,12 +12,25 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      # Snake animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
+      # Pacman animation
+      - name: Generate Pacman Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      # Push all animations at once
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
