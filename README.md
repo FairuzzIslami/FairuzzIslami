@@ -79,13 +79,19 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=FairuzzIslami&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
-
 <h2 align="center">🎮 <strong>PAC-MAN & SNAKE</strong> — Let's play!</h2>
+
+<p align="center">
+  Eat all the dots, dodge the obstacles, and watch your GitHub contributions come to life!  
+  Ready to level up your code game? 🕹️🚀
+</p>
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/snake.svg)
-![Pacman animation](https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/pacman-contribution-graph.svg)
+![Snake animation](https://raw.githubusercontent.com/FairuzzIslami/FairuzzIslami/output/snake.svg)
+![Pacman animation](https://raw.githubusercontent.com/FairuzzIslami/FairuzzIslami/output/pacman-contribution-graph.svg)
+
+
 
 
 
