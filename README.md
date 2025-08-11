@@ -89,7 +89,7 @@
 <br clear="both">
 
 ![Snake animation](https://raw.githubusercontent.com/FairuzzIslami/FairuzzIslami/output/snake.svg)
-![Pacman animation](https://raw.githubusercontent.com/FairuzzIslami/FairuzzIslami/output/pacman-contribution-graph.svg)
+
 
 
 
