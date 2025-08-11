@@ -84,10 +84,8 @@
 
 <br clear="both">
 
-### Snake
-![Snake animation](https://raw.githubusercontent.com/<username>/<repo>/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/snake.svg)
+![Pacman animation](https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/pacman-contribution-graph.svg)
 
-### Pacman
-![Pacman animation](https://raw.githubusercontent.com/<username>/<repo>/output/pacman.svg)
 
 
